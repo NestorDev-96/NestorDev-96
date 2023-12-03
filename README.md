@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @NestorDev-96
-- 👀 I’m interested in SQL and web development
-- 🌱 I’m currently learning JavaScript, html, css and SQL
-- At the moment I'm still learning, but I want to collaborate with all the knowledge I acquire
+# Olá! Eu sou o Nestor Neto
 
-<!---
-NestorDev-96/NestorDev-96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 Estudo atualmente Análise e Desenvolvimento de Sitemas (ESTÁCIO)
+- 💻 Trabalho como Assistente de sistemas (GRUPO PARVI)
+##
+<div>
+  <img align="center" alt="Nestor-JS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Nestor-HTML" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="Nestor-CSS" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="center" alt="Nestor-VSCODE" heigt="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" />
+</div>
+
+##
+<div>
+  <a href="https://www.linkedin.com/in/nestor-neto-5541a013b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN" target="_blank"></a>
+</div>
+
+<br>
+
+##
+
+- 💪🏼 Guerrearei com brio!
